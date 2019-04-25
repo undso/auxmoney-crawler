@@ -1,2 +1,2 @@
-10 13 25 * * python3 /usr/local/main.py
+10 14 25 * * python3 /usr/local/main.py
 # crontab requires an empty line at the end of the file
